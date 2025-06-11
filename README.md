@@ -40,11 +40,6 @@ I love crafting futuristic and immersive web experiences using **JavaScript**, *
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Crafting+futuristic+web+experiences+with+code+💻;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
-</p>
-
-
 ## 🧩 Featured Projects
 
 ### 💱 [Currency Converter](https://jayparmar123.github.io/Currency-converter/)

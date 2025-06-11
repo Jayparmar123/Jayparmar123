@@ -44,4 +44,4 @@ I'm a passionate **Full Stack Web Developer** focused on building scalable and i
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson

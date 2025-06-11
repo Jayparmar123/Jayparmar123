@@ -6,10 +6,10 @@ I'm a passionate **Full Stack Web Developer** focused on building scalable and i
 
 ## About Me
 
-- 🌱 Currently learning **Advanced JavaScript**, **React**, and **System Design**
-- 💻 Building performance-driven projects with futuristic design
-- 📘 Practicing daily on **LeetCode**, **Aptitude**, and **Reasoning**
-- 🚀 Following the **Sheryians Job Ready AI Powered Cohort**
+-  Currently learning **Advanced JavaScript**, **React**, and **System Design**
+-  Building performance-driven projects with futuristic design
+-  Practicing daily on **LeetCode**, **Aptitude**, and **Reasoning**
+-  Following the **Sheryians Job Ready AI Powered Cohort**
 
 ---
 

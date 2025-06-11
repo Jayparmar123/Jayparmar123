@@ -59,7 +59,7 @@ A GitHub profile search app that fetches and displays user details using the Git
 ## 📬 Connect With Me
 
 - 📧 Email: [jp174243@gmail.com]
-- 🌐 Portfolio: [jayparmar123.github.io](https://jayparmar123.github.io)
+<!-- - 🌐 Portfolio: [jayparmar123.github.io](https://jayparmar123.github.io) -->
 - 💼 LinkedIn: [https://www.linkedin.com/in/jay-parmar-10465a2b3/]
 
 ---

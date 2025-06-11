@@ -1,6 +1,6 @@
 # Hello, I'm Jay Parmar
 
-I'm a passionate **Full Stack Web Developer** focused on building scalable and immersive experiences using the **MERN Stack**. I love combining logic with creativity through **JavaScript**, **React**, **Three.js**, **GSAP**, and **Barba.js**.
+I'm a passionate **Full Stack Web Developer** focused on building scalable and immersive experiences using the **MERN Stack**. I love combining logic with creativity through **JavaScript**, **React**, **GSAP**.
 
 ---
 

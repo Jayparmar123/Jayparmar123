@@ -35,7 +35,7 @@ I'm a passionate **Full Stack Web Developer** focused on building scalable and i
 - [🔗 GitHub Explorer](https://jayparmar123.github.io/github-explorer/)   
   Fetches and displays GitHub user profiles using the GitHub API.
 
-- [🔗 TeamTalk – MERN Chat Application](https://team-talk-frontend-rust.vercel.app/)  
+- [🔗 TeamTalk – MERN Chat Application](https://team-talk-frontend-alpha.vercel.app/)  
   Developed a scalable real-time chat application using React, Node.js, Express, MongoDB, and Socket.IO with JWT authentication, refresh token security, user management, and live communication features.
 
 ---
